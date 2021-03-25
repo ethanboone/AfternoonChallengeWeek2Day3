@@ -1,0 +1,14 @@
+header {
+    min-height: 10vh !important;
+    max-height: 10vh !important;
+}
+
+main {
+    min-height: 80vh !important;
+    max-height: 80vh !important;
+}
+
+footer {
+    min-height: 10vh !important;
+    max-height: 10vh !important;
+}
