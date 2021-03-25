@@ -3,6 +3,12 @@ header {
     max-height: 10vh !important;
 }
 
+body {
+    background-image: url(hunterbackground.jpg);
+    background-size: cover;
+    font-family: 'Special Elite', cursive;
+}
+
 main {
     min-height: 80vh !important;
     max-height: 80vh !important;
